@@ -1,8 +1,7 @@
 paru
 racchu
 acchu
-nagu 
-nithya
+nagu
 shwetha
 welcome to spt college
 java os se python
